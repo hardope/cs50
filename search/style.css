@@ -1,0 +1,23 @@
+.red{
+     color: red
+}
+.blue{
+     color: blue
+}
+h1{
+     text-rendering: optimizeLegibility;
+     font-size: 100px;
+}
+
+div{
+     padding-bottom: 2%;
+}
+
+
+input{
+     border-radius: 25px;
+    border: 2px solid rgb(224, 224, 224);
+    padding: 20px; 
+    width: 600px;
+    height: 5px; 
+}
