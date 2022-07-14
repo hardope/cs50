@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            document.addEventListener('DOMContentLoaded', function()
+            {
+                let correct_button = document.querySelector("#e")
+                let first = document.querySelector('#b')
+                let second = document.querySelector('#c')
+                let third = document.querySelector('#d')
+                let fourth = document.querySelector('#a')
+                let message = document.querySelector('#message')
+
+
+                correct_button.addEventListener('click', function(){
+                    correct_button.style.backgroundColor = 'green'
+                    message.innerHTML = "Correct"
+                })
+
+                first.addEventListener('click', function(){
+                    first.style.backgroundColor = 'red'
+                    message.innerHTML = "Incorrect"
+                })
+
+                second.addEventListener('click', function(){
+                    second.style.backgroundColor = 'red'
+                    message.innerHTML = "Incorrect"
+                })
+
+                third.addEventListener('click', function(){
+                    third.style.backgroundColor = 'red'
+                    message.innerHTML = "Incorrect"
+                })
+
+                fourth.addEventListener('click', function(){
+                    fourth.style.backgroundColor = 'red'
+                    message.innerHTML = "Incorrect"
+                })
+
+                document.querySelector('#Check').addEventListener('click', function(){
+                    let answer = (document.querySelector("input"));
+                    if (answer.value == "Switzerland" || answer.value == "switzerland")
+                    {
+                        message1.innerHTML = "Correct"
+                        answer.style.color = "green"
+                    }
+                    else
+                    {
+                        message1.innerHTML = "Incorrect"
+                        answer.style.color = "red"
+                    }
+                })
+            });
+
+            // TODO: Add code to check answers to questions
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>
+                    What is the approximate ratio of people to sheep in New Zealand?
+                    <p id="message"></p>
+                </h3><!-- TODO: Add multiple choice question here -->
+            </div>
+
+            <div class="section">
+                <button id="a">6 people per 1 sheep</button>
+                <button id="b">3 people per 1 sheep</button>
+                <button id="c">1 peoson per 1 sheep</button>
+                <button id="d">1 peoson per 3 sheep</button>
+                <button id="e">1 peoson per 6 sheep</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>
+                    In which country is it illegal to own only one guinea pig, as a lone guinea pig might get lonely?
+                    <p id="message1"></p>
+                </h3>
+                <!-- TODO: Add free response question here -->
+            </div>
+            <div class="section">
+                <input id="input" type="text">
+                <button id="Check">Check answer</button>
+            </div>
+        </div>
+    </body>
+    <footer>
+        Copyright &#169; ADEYERI OPEOLUWA
+    </footer>
+</html>
