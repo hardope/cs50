@@ -1,0 +1,1 @@
+# Django web app for online auction purchases
