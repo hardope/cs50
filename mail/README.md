@@ -1,0 +1,1 @@
+# Django Web app to send and receive mails
