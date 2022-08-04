@@ -1,0 +1,1 @@
+# Print pyramid with specific width 
