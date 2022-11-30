@@ -2,3 +2,5 @@
 
 ## Psets for CS50X, CS50p, CS50 WEB
 Assignments for Harvard cs50 courses in 2022
+
+* Hello - c
