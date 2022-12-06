@@ -4,3 +4,5 @@
 Assignments for Harvard cs50 courses in 2022
 
 * Hello - c
+* Caesar - c 
+plurality - c
