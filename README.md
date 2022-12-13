@@ -7,3 +7,5 @@ Assignments for Harvard cs50 courses in 2022
 * Caesar - c 
 * plurality - c
 * grocery - python
+* jar - python
+* lines - python
