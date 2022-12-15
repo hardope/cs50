@@ -9,3 +9,4 @@ Assignments for Harvard cs50 courses in 2022
 * grocery - python
 * jar - python
 * lines - python
+* outdated - python
