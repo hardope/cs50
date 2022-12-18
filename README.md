@@ -11,3 +11,4 @@ Assignments for Harvard cs50 courses in 2022
 * lines - python
 * outdated - python
 * seasons - python
+* shirtificate - pythons
