@@ -13,3 +13,4 @@ Assignments for Harvard cs50 courses in 2022
 * seasons - python
 * shirtificate - pythons
 * speller - c
+* mario-more - c
