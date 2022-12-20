@@ -12,3 +12,4 @@ Assignments for Harvard cs50 courses in 2022
 * outdated - python
 * seasons - python
 * shirtificate - pythons
+* speller
