@@ -14,3 +14,4 @@ Assignments for Harvard cs50 courses in 2022
 * shirtificate - pythons
 * speller - c
 * mario-more - c
+* trivia - html, css, javascript
