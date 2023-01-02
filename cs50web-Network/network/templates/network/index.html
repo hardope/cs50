@@ -1,0 +1,31 @@
+{% extends "network/layout.html" %}
+{% load static %}
+{% block style %}
+<link href="{% static 'network/styles.css' %}" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+{% endblock %}
+{% block script %}
+<script src="{% static 'network/index.js' %}"></script>
+{% endblock %}
+{% block title %}
+Recent Post for {{ user }}
+{% endblock %}
+
+{% block body %}
+{% if user.is_active %}
+<div id="new-post">
+    <br><h3>New Post</h3>
+    <form method="post" action="{% url 'newpost' %}">
+        {% csrf_token %}
+        <textarea class="form-control" rows="5" name="post" placeholder="New Post"></textarea>
+        <button type="submit" class="btn btn-primary">Post</button>
+    </form>
+    <br>
+</div>
+{% endif %}
+<div id="posts">
+</div>
+<div id="following-posts">
+
+</div>
+{% endblock %}

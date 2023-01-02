@@ -1,0 +1,35 @@
+body {
+    /*display: flex;*/
+    align-content: center;
+    align-items: center;
+
+}
+
+#new-post, .edit-post {
+    width: 50%;
+    align-items: center;
+    align-content: center;
+    padding-left: 10%;
+}
+
+#posts, #following-posts {
+    padding-left: 10%;
+}
+
+.post {
+    text-align: left;
+    align-content: center;
+}
+
+.btn-edit {
+    color: dodgerblue;
+    font-weight: bold;
+    text-decoration: underline
+
+}
+
+.btn-edit:hover {
+    color: lightskyblue;
+    cursor: pointer;
+    text-decoration: underline
+}
