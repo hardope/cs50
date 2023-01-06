@@ -19,3 +19,4 @@
 * speller - c
 * test_ - python
 * Cs50web-Network - Python, Django, Javascript
+* deep - python
