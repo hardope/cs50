@@ -21,3 +21,4 @@
 * Cs50web-Network - Python, Django, Javascript
 * deep - python
 * einstein - python
+* extensions - python
