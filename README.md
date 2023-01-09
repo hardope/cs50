@@ -23,3 +23,4 @@
 * einstein - python
 * extensions - python
 * font - python
+* coke - python
