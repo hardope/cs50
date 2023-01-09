@@ -22,3 +22,4 @@
 * deep - python
 * einstein - python
 * extensions - python
+* font - python
