@@ -24,3 +24,4 @@
 * extensions - python
 * font - python
 * coke - python
+* figlet - python
