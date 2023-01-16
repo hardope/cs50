@@ -25,3 +25,4 @@
 * font - python
 * coke - python
 * figlet - python
+* tip - python
