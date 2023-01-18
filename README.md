@@ -27,3 +27,4 @@
 * figlet - python
 * tip - python
 * um - python
+* mail - python-django
