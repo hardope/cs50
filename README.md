@@ -28,3 +28,4 @@
 * tip - python
 * um - python
 * mail - python-django
+* taqueria - python
