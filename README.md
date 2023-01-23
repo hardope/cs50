@@ -24,7 +24,7 @@
 * extensions - python
 * font - python
 * coke - python
-* figlet - python
+* figlet project - python
 * tip - python
 * um - python
 * mail - python-django
