@@ -25,7 +25,7 @@
 * font - python
 * coke - python
 * figlet project - python
-* tip - python
+* tip-project - python
 * um - python
 * mail - python-django
 * taqueria - python
