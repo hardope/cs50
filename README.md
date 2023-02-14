@@ -29,3 +29,4 @@
 * um - python
 * mail - python-django
 * taqueria - python
+capstone - python Django
