@@ -1,4 +1,4 @@
-bank/     coke/             dna/         final_project/  hello/   mail/        plurality/    runoff/     sentimental-mario-more/  test_bank/   trivia/
-bitcoin/  commerce/         einstein/    font/           indoor/  mario-more/  project/      scourgify/  shirtificate/            test_fuel/   um/
-caesar/   cs50web-Network/  extensions/  fuel/           jar/     outdated/    readability/  search/     speller/                 test_twttr/  watch/
-class/    deep/             figlet/      grocery/        lines/   plates/      README.md     seasons/    taqueria/                tip/         world-cup/
+bank     coke             dna         final_project  hello   mail        plurality    runoff     sentimental-mario-more  test_bank   trivia
+bitcoin  commerce         einstein    font           indoor  mario-more  project      scourgify  shirtificate            test_fuel   um
+caesar   cs50web-Network  extensions  fuel           jar     outdated    readability  search     speller                 test_twttr  watch
+class    deep             figlet      grocery        lines   plates      README.md     seasons    taqueria                tip         world-cup
