@@ -4,7 +4,7 @@
 ##  Disclaimer
 This is only for academical purposes
 
-## Assignments for Harvard cs50 courses in 2022
+## Assignments for Harvard cs50 courses 2022
 
 * Hello - c
 * Caesar - c 
