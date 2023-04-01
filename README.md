@@ -1,6 +1,9 @@
 # Cs50 Intro to computer Science
 ## Psets for CS50X, CS50P, CS50 WEB
 
+##  Disclaimer
+This is only for academical purposes
+
 ## Assignments for Harvard cs50 courses in 2022
 
 * Hello - c
