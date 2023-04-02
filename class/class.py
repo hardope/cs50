@@ -3,7 +3,6 @@ class Wizard:
           if not name:
                raise ValueError("Missing name")
           self.name = name
-          
 
 class Student:
      def __init__(Wizard):
@@ -17,7 +16,6 @@ class Professor:
           self.subject = subject
      def __str__(self):
           return f"{self.name} teaches {self.subject}"
-
 
 wizard = Wizard('Albus')
 print(Student('James'))
