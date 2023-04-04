@@ -4,8 +4,6 @@ while value >= 1:
     if coin != 30:
         value = value - coin
 
-
-
     if value > 0:
         print(f"Amount due: {value}")
 
