@@ -18,4 +18,5 @@ def main():
         print("application/octet-stream")
 
 
-main()
+if __name__ == "__main__":
+    main()
