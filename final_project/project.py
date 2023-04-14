@@ -158,4 +158,3 @@ def delete_contact(s):
 
 if __name__ == "__main__":
     main()
-
