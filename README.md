@@ -1,7 +1,7 @@
 # Cs50 Intro to computer Science
 ## Psets for CS50X, CS50P, CS50 WEB, CS50AI
 
-## Assignments for Harvard cs50 courses in 2022
+## Assignments for Harvard cs50 courses in 2022 and 2023
 
 * Hello - c
 * Caesar - c 
