@@ -1,5 +1,5 @@
 # Cs50 Intro to computer Science
-## Psets for CS50X, CS50P, CS50 WEB
+## Psets for CS50X, CS50P, CS50 WEB, CS50AI
 
 ##  Disclaimer
 This is only for academical purposes
